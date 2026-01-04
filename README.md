@@ -6,5 +6,8 @@ The code uses
 - geopandas library to create a geometric list with the coordinates data for the map visualization purpose
 - Python Folium Map for interactive map visualization
 
-The Python code in Google Colab is available here: 
+Access the work file in Google Colab here: 
 https://colab.research.google.com/drive/1-byd23cgjXetTqlDtKM1tfLcAxjqMi4k#scrollTo=f8eELDvXfY63
+
+<img width="266" height="178" alt="image" src="https://github.com/user-attachments/assets/bf7f1494-b262-43f5-ad3e-589d1745b803" />
+
